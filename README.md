@@ -20,4 +20,4 @@ so there are no more problem with `BN_init()`.
 
 have fun　:) 
 
-楽しみましょう
+
